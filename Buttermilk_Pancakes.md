@@ -2,7 +2,7 @@
 
 * Prepare the liquids
   * heat a small pot on low, adding `2 tablespoons of unsalted butter` to melt
-  * place `3/4 cup of milk` in a measuring cup
+  * place `3/4 cup of 1% milk` in a measuring cup
   * add `2 tablespoons of white vinegar` to the milk
   * the time it takes for the vinegar to curdle the milk will be roughly the same as it takes for the butter to melt in the small pot on low
 * Prepare the mix
